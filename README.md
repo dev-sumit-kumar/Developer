@@ -1,2 +1,20 @@
-# Developer
-This is my first python (Repository ) and the "Project"name is (Bank Management Project). 
+# Bank-Management-System
+# 🏦 Bank Management System
+
+A simple Bank Management System built using Python.
+
+## Features
+- Create Account
+- Deposit Money
+- Withdraw Money
+- Check Balance
+
+## Technologies
+- Python
+- JSON
+
+
+## Future Improvements
+- GUI
+- Database
+- Login Authentication
